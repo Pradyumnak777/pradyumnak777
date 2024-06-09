@@ -1,3 +1,4 @@
+<!--
 ## About
 * Undergrad 3rd year student @ VIT, Vellore
 
@@ -16,7 +17,6 @@ I currently have one paper published - https://www.jpier.org/issues/volume.html?
 
 
 
-<!--
 **Pradyumnak777/pradyumnak777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
